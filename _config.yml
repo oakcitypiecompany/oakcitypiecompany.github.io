@@ -13,7 +13,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.oakcitypiecompany.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-remote_theme: "jeffreytse/jekyll-theme-yat"
+remote_theme: "jeffreytse/jekyll-theme-yat@v1.10.0"
 plugins:
   - jekyll-remote-theme
 
