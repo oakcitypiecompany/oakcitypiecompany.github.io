@@ -37,4 +37,4 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
-  _ .DS_Store
+  - .DS_Store
