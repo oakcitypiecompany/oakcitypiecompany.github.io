@@ -1,0 +1,15 @@
+# Site settings
+title: Oak City Pie Compay
+email: oakcitypiecompany@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://www.oakcitypiecompany.com/"
+
+instagram_username: oakcitypiecompany
+threads_username: oakcitypiecompany
+
+# Build settings
+markdown: kramdown
+sass:
+  quiet_deps: true
+ 
